@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\automovel\bin\Debug\net6.0\automovel.exe
+C:\Users\Aluno\source\repos\automovel\bin\Debug\net6.0\automovel.deps.json
+C:\Users\Aluno\source\repos\automovel\bin\Debug\net6.0\automovel.runtimeconfig.json
+C:\Users\Aluno\source\repos\automovel\bin\Debug\net6.0\automovel.dll
+C:\Users\Aluno\source\repos\automovel\bin\Debug\net6.0\automovel.pdb
+C:\Users\Aluno\source\repos\automovel\obj\Debug\net6.0\automovel.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\automovel\obj\Debug\net6.0\automovel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\automovel\obj\Debug\net6.0\automovel.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\automovel\obj\Debug\net6.0\automovel.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\automovel\obj\Debug\net6.0\automovel.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\automovel\obj\Debug\net6.0\automovel.dll
+C:\Users\Aluno\source\repos\automovel\obj\Debug\net6.0\refint\automovel.dll
+C:\Users\Aluno\source\repos\automovel\obj\Debug\net6.0\automovel.pdb
+C:\Users\Aluno\source\repos\automovel\obj\Debug\net6.0\automovel.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\automovel\obj\Debug\net6.0\ref\automovel.dll
